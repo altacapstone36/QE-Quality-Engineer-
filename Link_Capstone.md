@@ -8,6 +8,7 @@
 
 # Test Case (Mobile)
 
+https://docs.google.com/spreadsheets/d/1DZcwypwqfi-jWpWH4YxiNp3PmAbyUn4gcfOZxlSDWRo/edit?usp=sharing 
 
 # Link Repo Web Automation
 
