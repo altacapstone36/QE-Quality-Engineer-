@@ -22,4 +22,4 @@ Putri : https://github.com/PutriOS/Capstones
 
 # Link Repo Mobile Automation
 
-https://github.com/PutriOS/MobileCapstone 
+Putri : https://github.com/PutriOS/MobileCapstone 
