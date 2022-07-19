@@ -10,6 +10,7 @@ https://docs.google.com/spreadsheets/d/1YW3Tcfr8A8J5tzacDedjL5P5l8tHtrLoR2g_YMhz
 
 # Test Case (Mobile)
 
+https://docs.google.com/spreadsheets/d/1PiirooGmd0us5Qs-G34YnVCrmEYWeV85cphXFXiZ9Vc/edit#gid=0
 
 # Link Repo Web Automation
 
@@ -21,3 +22,4 @@ Putri : https://github.com/PutriOS/Capstones
 
 # Link Repo Mobile Automation
 
+https://github.com/PutriOS/MobileCapstone 
